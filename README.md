@@ -1,1 +1,3 @@
-# lxd-gpu-server-scripts
+# 利用LXD容器构建共享GPU服务器
+
+环境配置：
